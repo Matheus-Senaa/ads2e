@@ -1,0 +1,3 @@
+o sistema deve autenticar o usuario
+o usuario faz a solicitaçao da viagem pelo aplicativo
+O sistema deve calcular a rota do passageiro para poder gerar um  carro mais proximo do mesmo
